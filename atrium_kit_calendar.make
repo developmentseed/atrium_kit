@@ -20,6 +20,5 @@ libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jqu
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/jquery_ui"
 
-projects[atrium_features][type] = module
-projects[atrium_features][download][type] = git
-projects[atrium_features][download][url] = git://github.com/developmentseed/atrium_features.git
+projects[atrium_features][location] = http://code.developmentseed.org/fserver
+projects[atrium_features][version] = 1.0-alpha9

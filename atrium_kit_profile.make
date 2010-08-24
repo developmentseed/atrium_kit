@@ -10,6 +10,5 @@ projects[features] = 1.0
 projects[strongarm] = 2.0
 projects[views] = 2.11
 
-projects[atrium_features][type] = module
-projects[atrium_features][download][type] = git
-projects[atrium_features][download][url] = git://github.com/developmentseed/atrium_features.git
+projects[atrium_features][location] = http://code.developmentseed.org/fserver
+projects[atrium_features][version] = 1.0-alpha9
